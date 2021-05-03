@@ -70,4 +70,4 @@ display(df)
 
 # COMMAND ----------
 
-# display(df.select("article"))
+display(df.select("article"))
